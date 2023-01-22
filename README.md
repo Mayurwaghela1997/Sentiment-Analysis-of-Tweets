@@ -52,6 +52,8 @@ The comepletle model architecure of model can be seen in below image.
 
 ![data_distribution](https://github.com/Mayurwaghela1997/Sentiment-Analysis-of-Tweets/blob/main/model-architecture.PNG)
 
+The model was trained using 'ADAM' optimizer with the loss function 'Sparse categorical crossentropy' becuase our data has more than 2 classes.
+
 
 ## Results
 
@@ -68,5 +70,7 @@ The trained model was evaluated using test set and the accuracy on test set was 
 
 The below figure represents the confusion matrix from sklearn.
 
+![Confusion-matrix](https://github.com/Mayurwaghela1997/Sentiment-Analysis-of-Tweets/blob/main/Results/confusion-matrix.PNG)
 
 
+Overall, The learning and creating this model was fun. On improvment, we can use some class balancing methods to improve the training & results. Further improvments or approches welcomed :-)
