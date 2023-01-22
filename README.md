@@ -11,4 +11,4 @@ The label -1 represents Negative sentiment, 1 represents Positive sentiment and 
 The below figure represents the distribution of data among each category.
 
 You are supposed to see the processed files in `data` folder
-![data_distribution]([http://url/to/img.png](https://github.com/Mayurwaghela1997/Sentiment-Analysis-of-Tweets/blob/main/Data/data-distribution.PNG))
+![data_distribution](https://github.com/Mayurwaghela1997/Sentiment-Analysis-of-Tweets/blob/main/Data/data-distribution.PNG)
