@@ -75,4 +75,4 @@ The below figure represents the confusion matrix from sklearn.
 
 We can see most of the sentiment prediction of tweets were correctly done.
 
-Overall, The learning and creating this model was fun. On improvment, we can use some class balancing methods to improve the training & results. Further improvments or approches welcomed :-)
+Overall, The learning and creating this model was fun. Further improvments or approches welcomed :-)
