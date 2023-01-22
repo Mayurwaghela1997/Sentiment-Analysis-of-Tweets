@@ -10,5 +10,5 @@ The label -1 represents Negative sentiment, 1 represents Positive sentiment and 
 
 The below figure represents the distribution of data among each category.
 
-You are supposed to see the processed files in `Data` folder
-![ddata_directory](images/data_distribution.png)
+You are supposed to see the processed files in `data` folder
+![data_directory](data/data_distribution.png)
