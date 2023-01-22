@@ -10,7 +10,7 @@ The label -1 represents Negative sentiment, 1 represents Positive sentiment and 
 
 The below figure represents the distribution of data among each category.
 
-You are supposed to see the data used in `data` folder
+You are supposed to see the data used in `Data` folder
 
 ![data_distribution](https://github.com/Mayurwaghela1997/Sentiment-Analysis-of-Tweets/blob/main/Data/data-distribution.PNG)
 
@@ -55,5 +55,5 @@ The comepletle model architecure of model can be seen in below image.
 
 ## Results
 
-The results of the sentiment alanysis is under `results` folder.
+The results of the sentiment alanysis is under `Results` folder.
  
