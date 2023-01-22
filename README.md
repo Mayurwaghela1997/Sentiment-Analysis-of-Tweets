@@ -57,3 +57,16 @@ The comepletle model architecure of model can be seen in below image.
 
 The results of the sentiment alanysis is under `Results` folder.
  
+During the training, The model fits well to training data and we can see the loss getting reduced.
+The call back was set to 3 patience on validation_accuracy while training so the model stopped learning at 5 epochs.
+The below figure represents the training history in terms of accuracy and loss.
+![Training-history](https://github.com/Mayurwaghela1997/Sentiment-Analysis-of-Tweets/blob/main/Results/training-history.PNG)
+
+### Evaluation
+
+The trained model was evaluated using test set and the accuracy on test set was 86%.
+
+The below figure represents the confusion matrix from sklearn.
+
+
+
