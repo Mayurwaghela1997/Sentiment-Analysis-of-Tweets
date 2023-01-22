@@ -10,7 +10,7 @@ The label -1 represents Negative sentiment, 1 represents Positive sentiment and 
 
 The below figure represents the distribution of data among each category.
 
-You are supposed to see the data used in `Data` folder
+The CSV file of the tweets from [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset) can be seen under `Data` folder
 
 ![data_distribution](https://github.com/Mayurwaghela1997/Sentiment-Analysis-of-Tweets/blob/main/Data/data-distribution.PNG)
 
