@@ -66,11 +66,13 @@ The below figure represents the training history in terms of accuracy and loss.
 
 ### Evaluation
 
-The trained model was evaluated using test set and the accuracy on test set was 86%.
+The trained model was evaluated on unseen data(test set).
+The accuracy on test set was around 86.89%.
 
 The below figure represents the confusion matrix from sklearn.
 
 ![Confusion-matrix](https://github.com/Mayurwaghela1997/Sentiment-Analysis-of-Tweets/blob/main/Results/confusion-matrix.PNG)
 
+We can see most of the sentiment prediction of tweets were correctly done.
 
 Overall, The learning and creating this model was fun. On improvment, we can use some class balancing methods to improve the training & results. Further improvments or approches welcomed :-)
