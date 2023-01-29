@@ -2,6 +2,8 @@
 
 The repository contains the data & code for detecting the sentiments from tweets using Deep Neural Network.
 
+The model is created in both functional programming and Object Oriented Programming(OOP). The functional programming model is in the root directory, and the Object Oriented Programming(OOP) model is under the `Object Oriented Model` folder.
+
 ## Datasets
 
 I used the publicly available labelled dataset of approx 162K Tweets on [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset) 
